@@ -1,0 +1,29 @@
+{
+	"name": "theme-chromodynamics-delek",
+	"displayName": "theme-chromodynamics-delek",
+	"description": "A theme combining Chromodynamics and Delek color themes.",
+	"repository": "https://github.com/ambv/vscode-theme-chromodynamics-delek",
+	"icon": "images/icon.png",
+	"version": "1.0.0",
+	"publisher": "ambv",
+	"engines": {
+		"vscode": "^1.4.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Chromodynamics Delek",
+				"uiTheme": "vs-dark",
+				"path": "./themes/delek.color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "2dc23a7e-8859-4888-ad9e-a8c0a85e3c5e",
+		"publisherId": "f34d8afd-59a0-455a-99cf-eaea88affa53",
+		"publisherDisplayName": null
+	}
+}
